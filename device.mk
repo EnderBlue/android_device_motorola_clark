@@ -165,8 +165,7 @@ PRODUCT_PACKAGES += \
     libOmxEvrcEnc \
     libOmxQcelp13Enc \
     libOmxVdec \
-    libOmxVenc \
-    libstagefrighthw
+    libOmxVenc
 
 PRODUCT_BOOT_JARS += \
     libstagefrighthw
